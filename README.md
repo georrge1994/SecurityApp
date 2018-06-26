@@ -1,2 +1,2 @@
-# SecurityApp
- I wanted to write an application to control the launch of other applications on the smartphone. I even bought a phone for this =)
+# Security 
+App It is my first android project. I wanted to write the application for controlling the launch of applications on device.
